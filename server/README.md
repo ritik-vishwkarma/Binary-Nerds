@@ -34,11 +34,15 @@ This server is part of a web application designed to analyze social media engage
 
 ## Running the Server
 
-1. Start the server:
+1. Before running the server:
+   ```bash
+   npx tsc
+
+2. Start the server:
    ```bash
    npm run dev
 
-2. The server will be running on http://localhost:3000.
+3. The server will be running on http://localhost:3000.
 
 ## API Endpoints
  - POST /run-flow: Initiates the AI workflow with the provided input data.
