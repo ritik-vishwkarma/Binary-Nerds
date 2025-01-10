@@ -40,11 +40,11 @@ This project is a web application designed to analyze social media engagement us
 
 
 2. Install dependencies for both frontend and server:
-  ```bash
-   cd frontend
-  npm install
-  cd ../server
-  npm install
+    ```bash
+    cd frontend
+    npm install
+    cd ../server
+    npm install
 
 ### Running the Application
 
